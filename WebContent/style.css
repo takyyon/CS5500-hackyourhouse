@@ -1,0 +1,95 @@
+.bg-primary {
+    background-color: #3E3F3A !important;
+}
+
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-size:50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.logo{
+	height: 100px;
+	width: 100px;
+}
+
+.house{
+	height:900px;
+	opacity: 0.7;
+}
+
+.carousel-content {
+  position: absolute;
+  bottom: 50%;
+  left: 35%;
+  z-index: 20;
+  color: white;
+  font-size:70px;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  font-family: 'Cabin Condensed', sans-serif;
+}
+
+.input-group{
+	width: 50%
+}
+
+.loginComponent{
+	margin-top: 10em;
+}
+
+.input-group-addon{
+	margin-right: 1em;
+}
+
+.fas{
+	margin-top: 0.6em;
+	color:#2C3E50;
+}
+
+.btn-primary {
+    background-color: #2C3E50 !important;
+    font-size:20px;
+}
+
+.btn-danger {
+    font-size:20px;
+    margin-left: 10px;
+}
+
+.btn-warning{
+    font-size:20px;
+    margin-left: 10px;
+}
+
+.btn-secondary{
+    font-size:20px;
+    margin-left: 10px;
+}
+
+.white{
+	color:white;
+}
+
+.inline-form{
+	width:80%
+}
+
+.search{
+	margin-top:240px;
+}
+
+.info{
+	margin-left:30px;
+}
+
+.custom-select{
+	width:50%;
+}
